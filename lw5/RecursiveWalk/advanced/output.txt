@@ -1,0 +1,8 @@
+1fd419a8 C:\lounge\client.bat
+2ee727aa C:\lounge\db-client\.babelrc
+25f063e9 C:\lounge\db-client\.git\COMMIT_EDITMSG
+b680bbbe C:\lounge\db-client\.git\config
+84376473 C:\lounge\db-client\.git\description
+bd6661ed C:\lounge\db-client\.git\FETCH_HEAD
+bda60bde C:\lounge\db-client\.git\HEAD
+a35cdc29 C:\lounge\db-client\.git\hooks\applypatch-msg.sample
